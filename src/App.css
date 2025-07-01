@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.borda {
+    border: 1px solid red;
+}
+
+.linha {
+    background-color: black;
+}
